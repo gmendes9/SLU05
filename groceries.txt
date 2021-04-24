@@ -4,3 +4,4 @@ lettuce
 milk
 ham
 butter
+eggs
